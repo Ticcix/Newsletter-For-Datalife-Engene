@@ -1,9 +1,9 @@
-# Newsletter For Datalife Engene
+# Newsletter For Datalife Engine
 ![Static Badge](https://img.shields.io/badge/Version-1.0.1-fedcba?style=flat-square) ![Static Badge](https://img.shields.io/badge/DLE-15-green?style=flat-square) ![License: Unlicense](https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square) [![Static Badge](https://img.shields.io/badge/Download-Newsletter-red.svg?style=flat-square)](https://ticcix.com/34-newsletter-for-datalife-engene.html) [![Static Badge](https://img.shields.io/badge/Documentation-Green.svg?style=flat-square)](https://ticcix.com/34-newsletter-for-datalife-engene.html#)
 ![img](https://ticcix.com/uploads/posts/2024-01/bcbtyqdt10.png)
 
 
-##### Newsletter For Datalife Engene
+##### Newsletter For Datalife Engine
 
 
 Powerful and user-friendly plugin designed to seamlessly integrate subscription forms into your website.  our plugin offers a versatile solution for collecting and managing subscriber information.
